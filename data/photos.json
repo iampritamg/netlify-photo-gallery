@@ -1,5 +1,8 @@
 [
     { "name": "Apple", "src": "/images/apple.jpg" },
+    { "name": "Apple", "src": "/images/Portrait 1.jpg" },
+    { "name": "Apple", "src": "/images/Portrait 2.jpg" },
+    { "name": "Apple", "src": "/images/Portrait 3.jpg" },
     { "name": "Apple2", "src": "/images/apple2.jpg" },
     { "name": "Apple3", "src": "/images/apple3.jpg" },
     { "name": "Apple4", "src": "/images/apple4.jpg" },
